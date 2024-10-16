@@ -1,6 +1,38 @@
 {
     "applications": [
         {
+          "short_description": "A handy menu bar translator app that supports DeepL and Google Translate.",
+          "categories": [
+            "menubar"
+          ],
+          "repo_url": "https://github.com/ThijmenDam/BarTranslate",
+          "title": "BarTranslate",
+          "icon_url": "https://raw.githubusercontent.com/ThijmenDam/BarTranslate/master/assets/BarTranslateIcon.png",
+          "screenshots": [
+            "https://thijmendam.github.io/BarTranslate/assets/images/interface-snapshot.png"
+          ],
+          "official_site": "https://thijmendam.github.io/BarTranslate/",
+          "languages": [
+            "typescript"
+          ]
+        },
+        {
+            "short_description": "Keka is a full featured file archiver, as easy as it can be.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/aonez/Keka",
+            "title": "Keka",
+            "icon_url": "",
+            "screenshots": [
+                "https://www.keka.io/img/Keka-Square-512x512.png"
+            ],
+            "official_site": "https://www.keka.io/en/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.",
             "categories": [
                 "development",
@@ -52,7 +84,7 @@
             "categories": [
                 "menubar"
             ],
-            "repo_url": "https://github.com/manindaniil/market-bar",
+            "repo_url": "https://github.com/mnndnl/market-bar ",
             "title": "Market Bar",
             "icon_url": "",
             "screenshots": [],
@@ -69,12 +101,12 @@
             ],
             "repo_url": "https://github.com/apache/netbeans",
             "title": "Apache Netbeans",
-            "icon_url": "http://netbeans.apache.org/images/apache-netbeans.svg",
+            "icon_url": "https://netbeans.apache.org/images/apache-netbeans.svg",
             "screenshots": [
                 "https://www.dropbox.com/s/r9ewe87xer4nypj/netbeans_dark.png?dl=0",
                 "https://www.dropbox.com/s/qs2gh43lrsbdkid/netbeans_light.png?dl=0"
             ],
-            "official_site": "http://netbeans.apache.org",
+            "official_site": "https://netbeans.apache.org/",
             "languages": [
                 "java"
             ]
@@ -112,25 +144,6 @@
                 "https://raw.githubusercontent.com/Swift-open-source/UltraTabSaver/main/Ultra-TabSaver.gif"
             ],
             "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
-            "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
-            "categories": [
-                "audio",
-                "music",
-                "menubar",
-                "utilities"
-            ],
-            "repo_url": "https://github.com/musa11971/Music-Bar/",
-            "title": "Music Bar",
-            "icon_url": "https://raw.githubusercontent.com/musa11971/Music-Bar/master/docs/images/logo.png",
-            "screenshots": [
-                "https://musa11971.github.io/Music-Bar/images/app-ogp-img.png"
-            ],
-            "official_site": "https://musa11971.github.io/Music-Bar/",
             "languages": [
                 "swift"
             ]
@@ -283,7 +296,7 @@
             "categories": [
                 "audio"
             ],
-            "repo_url": "https://github.com/maculateConception/aural-player",
+            "repo_url": "https://github.com/kartik-venugopal/aural-player",
             "title": "Aural Player",
             "icon_url": "",
             "screenshots": [
@@ -692,7 +705,7 @@
             "title": "shallow-backup",
             "icon_url": "",
             "screenshots": [
-                "https://github.com/alichtman/shallow-backup/blob/master/img/shallow-backup-demo.gif"
+                "https://github.com/alichtman/shallow-backup/blob/main/img/shallow-backup-demo.gif"
             ],
             "official_site": "",
             "languages": [
@@ -841,7 +854,7 @@
             ],
             "repo_url": "https://github.com/tigase/beagle-im",
             "title": "Beagle IM",
-            "icon_url": "https://raw.githubusercontent.com/tigase/beagle-im/master/BeagleIM/Assets.xcassets/AppIcon.appiconset/IMG_0720_32.png",
+            "icon_url": "https://camo.githubusercontent.com/478e09adfdb2790ecc9f164fe60aba74852bb7a388bba8fbd0d7a0142724f496/68747470733a2f2f626561676c652e696d2f696d672f73657276696365732f6461726b4f724c696768742e706e67",
             "screenshots": [
                 "https://beagle.im/img/services/darkOrLight.png"
             ],
@@ -896,22 +909,6 @@
             ],
             "categories": [
                 "productivity"
-            ]
-        },
-        {
-            "short_description": "Ferdi is messaging application for services like WhatsApp, Slack, Messenger and many more. It started off as a hard-fork of Franz, but has now surpassed it in features.",
-            "categories": [
-                "chat"
-            ],
-            "repo_url": "https://github.com/getferdi/ferdi",
-            "title": "Ferdi",
-            "icon_url": "https://getferdi.com/wp-content/uploads/sites/4/2021/08/social-preview.png",
-            "screenshots": [
-                "https://getferdi.com/wp-content/uploads/sites/4/2021/08/laptop-1.png"
-            ],
-            "official_site": "https://getferdi.com/",
-            "languages": [
-                "javascript"
             ]
         },
         {
@@ -1597,7 +1594,7 @@
             "categories": [
                 "ios--macos"
             ],
-            "repo_url": "https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation",
+            "repo_url": "https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation",
             "title": "AppBox",
             "icon_url": "",
             "screenshots": [
@@ -2332,13 +2329,13 @@
             ],
             "repo_url": "https://github.com/httptoolkit/httptoolkit-desktop",
             "title": "HTTP Toolkit",
-            "icon_url": "https://httptoolkit.tech/icon-600.png",
+            "icon_url": "https://httptoolkit.com/icon-600.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/inspect-screenshot.png",
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/intercept-screenshot.png",
                 "https://raw.githubusercontent.com/httptoolkit/httptoolkit.tech/master/src/images/edit-screenshot.png"
             ],
-            "official_site": "https://httptoolkit.tech/",
+            "official_site": "https://httptoolkit.com/",
             "languages": [
                 "typescript"
             ]
@@ -2461,22 +2458,6 @@
             "official_site": "",
             "languages": [
                 "swift"
-            ]
-        },
-        {
-            "short_description": "Create deployments right from the tray menu. ",
-            "categories": [
-                "web-development"
-            ],
-            "repo_url": "https://github.com/vercel/now-desktop",
-            "title": "Now Desktop",
-            "icon_url": "",
-            "screenshots": [
-                "https://assets.zeit.co/image/upload/v1537714691/repositories/now-desktop/now-desktop-repo-banner.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "javascript"
             ]
         },
         {
@@ -2770,6 +2751,41 @@
             ]
         },
         {
+            "short_description": "Community plugins list, theme list, and releases of Obsidian. ",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/obsidianmd/obsidian-releases",
+            "title": "Obsidian plugins & themes",
+            "icon_url": "",
+            "screenshots": [
+                ""
+            ],
+            "official_site": "https://obsidian.md/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.",
+            "categories": [
+                "markdown"
+            ],
+            "repo_url": "https://github.com/MarkEdit-app/MarkEdit",
+            "title": "MarkEdit",
+            "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/0b/09/470b096f-fa45-b056-7f71-9cdde6b5c392/AppIcon-85-220-4-2x.png/460x0w.png",
+            "screenshots": [
+                "https://github.com/MarkEdit-app/MarkEdit/blob/main/Screenshots/01.png",
+                "https://github.com/MarkEdit-app/MarkEdit/raw/main/Screenshots/02.png",
+                "https://github.com/MarkEdit-app/MarkEdit/blob/main/Screenshots/03.png"
+            ],
+            "official_site": "https://markedit.app/",
+            "languages": [
+                "swift",
+                "typescript"
+            ]
+        },
+        {
             "short_description": "Text editor for exact sciences with built-in KaTeX/AsciiMath support. ",
             "categories": [
                 "tex"
@@ -2799,6 +2815,24 @@
                 "https://raw.githubusercontent.com/coteditor/CotEditor/master/screenshot@2x.png"
             ],
             "official_site": "",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Lightweight Code Editor (IDE) for macOS. ",
+            "categories": [
+                "ide",
+                "editors",
+                "text"
+            ],
+            "repo_url": "https://github.com/AuroraEditor/AuroraEditor",
+            "title": "AuroraEditor",
+            "icon_url": "https://avatars.githubusercontent.com/u/106490518",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/63672227/187914690-2277654c-6cab-4738-b151-1c85947bea8b.jpg"
+            ],
+            "official_site": "https://auroraeditor.com",
             "languages": [
                 "swift"
             ]
@@ -3176,7 +3210,7 @@
             "categories": [
                 "graphics"
             ],
-            "repo_url": "https://github.com/gragrance/CaptuocrToy",
+            "repo_url": "https://github.com/sfragrance/CaptuocrToy",
             "title": "CaptuocrToy",
             "icon_url": "",
             "screenshots": [
@@ -3384,6 +3418,42 @@
             ]
         },
         {
+            "short_description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+            "categories": [
+                "ide",
+                "editors"
+            ],
+            "repo_url": "https://github.com/CodeEditApp/CodeEdit",
+            "title": "CodeEdit",
+            "icon_url": "",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/806104/194004176-3143d19f-1ad9-449c-bd41-8c4f9998f44b.png"
+            ],
+            "official_site": "https://www.codeedit.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.",
+            "categories": [
+                "ide",
+                "editors",
+                "text"
+            ],
+            "repo_url": "https://github.com/geany/geany",
+            "title": "Geany",
+            "icon_url": "https://raw.githubusercontent.com/geany/geany/master/icons/48x48/geany.png",
+            "screenshots": [
+                "https://www.geany.org/media/uploads/screenshots/geany_dark_2019-05-20.png"
+            ],
+            "official_site": "https://www.geany.org/",
+            "languages": [
+                "c",
+                "c++"
+            ]
+        },
+        {
             "short_description": "ubiquitous text editor",
             "categories": [
                 "ide"
@@ -3502,7 +3572,7 @@
             "title": "Iconology",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/liamrosenfeld/Iconology/master/demo.gif"
+                "https://raw.githubusercontent.com/liamrosenfeld/Iconology/main/Iconology/Assets.xcassets/Logo.imageset/logo-long-black.svg"
             ],
             "official_site": "https://apps.apple.com/us/app/iconology/id1463452867",
             "languages": [
@@ -3705,7 +3775,6 @@
             "title": "Keycastr",
             "icon_url": "",
             "screenshots": [
-                "https://cloud.githubusercontent.com/assets/1013641/9109734/d73505e4-3c72-11e5-9c71-49cdf4a484da.gif",
                 "https://github.com/keycastr/keycastr/blob/5a9a9e5b498aad7f3bc26e3c2c95862359dbf3e4/assets/preview.png"
             ],
             "official_site": "",
@@ -3867,9 +3936,9 @@
           "title": "LinkLiar",
           "icon_url": "",
           "screenshots": [
-             "https://cdn.rawgit.com/halo/LinkLiar/master/docs/screenshot_3.0.1b.svg"
+              "https://cdn.jsdelivr.net/gh/halo/LinkLiar@master/docs/screenshot_3.0.1b.svg"
           ],
-          "official_site": "https://halo.github.io/LinkLiar",
+          "official_site": "https://halo.github.io/LinkLiar/",
           "languages": [
               "swift"
           ]
@@ -4017,6 +4086,20 @@
             "official_site": "",
             "languages": [
                 "objective_c"
+            ]
+        },
+        {
+            "short_description": "Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/tidiemme/monitorbar",
+            "title": "Monitor Bar",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "Swift"
             ]
         },
         {
@@ -4239,6 +4322,39 @@
             ]
         },
         {
+            "short_description": "Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.",
+            "categories": [
+                "music"
+            ],
+            "repo_url": "https://github.com/spicetify/spicetify-cli",
+            "title": "spicetify-cli",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/spicetify/spicetify-cli/master/.github/assets/logo.png"
+            ],
+            "official_site": "https://spicetify.app/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "Virtualization for other operating systems.",
+            "categories": [
+                "development"
+            ],
+            "repo_url": "https://github.com/utmapp/",
+            "title": "utmapp",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/utmapp/UTM/main/screenmac.png"
+            ],
+            "official_site": "https://mac.getutm.app/",
+            "languages": [
+                "swift",
+                "objective_c"
+            ]
+        },
+        {
             "short_description": "Control Spotify without leaving your terminal. :notes: ",
             "categories": [
                 "music"
@@ -4338,7 +4454,7 @@
             "categories": [
                 "notes"
             ],
-            "repo_url": "https://github.com/BoostIO/Boostnote",
+            "repo_url": "https://github.com/BoostIO/BoostNote-Legacy",
             "title": "Boostnote",
             "icon_url": "",
             "screenshots": [
@@ -4482,7 +4598,7 @@
             "categories": [
                 "notes"
             ],
-            "repo_url": "https://github.com/standardnotes/web",
+            "repo_url": "https://github.com/standardnotes/app",
             "title": "Standard Notes",
             "icon_url": "",
             "screenshots": [    ],
@@ -4513,7 +4629,7 @@
             "categories": [
                 "notes"
             ],
-            "repo_url": "https://github.com/klaussinani/tusk",
+            "repo_url": "https://github.com/klaudiosinani/tusk",
             "title": "Tusk",
             "icon_url": "",
             "screenshots": [],
@@ -4678,7 +4794,7 @@
             "categories": [
                 "other"
             ],
-            "repo_url": "https://github.com/goktugyil/QorumLogs",
+            "repo_url": "https://github.com/Esqarrouth/QorumLogs",
             "title": "QorumLogs",
             "icon_url": "",
             "screenshots": [],
@@ -4812,6 +4928,23 @@
             ]
         },
         {
+            "short_description": "Log analysis tool. ",
+            "categories": [
+                "other"
+            ],
+            "repo_url": "https://github.com/esrlabs/chipmunk",
+            "title": "ChipMunk",
+            "icon_url": "",
+            "screenshots": [
+                ""
+            ],
+            "official_site": "",
+            "languages": [
+                "typescript",
+                "rust"
+            ]
+        },
+        {
             "short_description": "Mac app for checking Xcode projects for unused resources.  ",
             "categories": [
                 "other"
@@ -4890,7 +5023,7 @@
             "categories": [
                 "podcast"
             ],
-            "repo_url": "https://github.com/phranck/podlive-macos",
+            "repo_url": "https://github.com/Podlive/podlive-macos",
             "title": "Podlive for macOS",
             "icon_url": "",
             "screenshots": [
@@ -4922,7 +5055,7 @@
             "categories": [
                 "productivity"
             ],
-            "repo_url": "https://github.com/klaussinani/ao",
+            "repo_url": "https://github.com/klaudiosinani/ao",
             "title": "Ao",
             "icon_url": "",
             "screenshots": [],
@@ -4937,7 +5070,7 @@
             "categories": [
                 "productivity"
             ],
-            "repo_url": "https://github.com/KELiON/cerebro",
+            "repo_url": "https://github.com/cerebroapp/cerebro",
             "title": "Cerebro",
             "icon_url": "",
             "screenshots": [],
@@ -5009,7 +5142,7 @@
             "categories": [
                 "productivity"
             ],
-            "repo_url": "https://github.com/federico-terzi/espanso",
+            "repo_url": "https://github.com/espanso/espanso",
             "title": "espanso",
             "screenshots": [
                 "https://raw.githubusercontent.com/federico-terzi/espanso/master/images/example.gif"
@@ -5414,7 +5547,7 @@
             "categories": [
                 "screensaver"
             ],
-            "repo_url": "https://github.com/docterd/MusaicFM",
+            "repo_url": "https://github.com/obrhoff/MusaicFM",
             "title": "MusaicFM",
             "icon_url": "",
             "screenshots": [
@@ -5823,17 +5956,19 @@
             ]
         },
         {
-            "short_description": "EtreCheck is an easy-to-use macOS app to display important details of your system configuration and allow you to copy that information to the Clipboard. ",
+            "short_description": "Linux/Mac fork of FAR Manager v2",
             "categories": [
-                "system"
+                "productivity",
+                "utilities"
             ],
-            "repo_url": "https://github.com/etresoft/EtreCheck",
-            "title": "EtreCheck",
-            "icon_url": "",
+            "repo_url": "https://github.com/elfmz/far2l",
+            "title": "far2l",
+            "icon_url": "https://raw.githubusercontent.com/elfmz/far2l/master/far2l/DE/icons/far2l.svg",
             "screenshots": [],
             "official_site": "",
             "languages": [
-                "objective_c"
+                "c",
+                "cpp"
             ]
         },
         {
@@ -5998,7 +6133,7 @@
             "categories": [
                 "system"
             ],
-            "repo_url": "https://github.com/DeromirNeves/VerticalBar",
+            "repo_url": "https://github.com/DeromirNeves/DockSeparator",
             "title": "VerticalBar",
             "icon_url": "",
             "screenshots": [
@@ -6331,24 +6466,6 @@
             ]
         },
         {
-            "short_description": "Life Calendar. ",
-            "categories": [
-                "utilities"
-            ],
-            "repo_url": "https://github.com/wvdk/Life-Calendar",
-            "title": "Life-Calendar",
-            "icon_url": "",
-            "screenshots": [
-                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/Screenshots%20and%20mockups/Mockups%203.png",
-                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/Screenshots%20and%20mockups/Mockups%201.png",
-                "https://raw.githubusercontent.com/wvdk/Life-Calendar/master/Screenshots%20and%20mockups/Mockup%202%20-%20Basic%20%22Life%20In%20Weeks%22%20Idea.png"
-            ],
-            "official_site": "",
-            "languages": [
-                "swift"
-            ]
-        },
-        {
             "short_description": "Intelligent adaptive brightness for your external displays. ",
             "categories": [
                 "utilities"
@@ -6499,7 +6616,7 @@
             ]
         },
         {
-            "short_description": "Bitwarden Passwort Manager in your menu bar",
+            "short_description": "Bitwarden Password Manager in your menu bar",
             "categories": [
                 "utilities"
             ],
@@ -6535,7 +6652,7 @@
             ]
         },
         {
-            "short_description": "A menu bar application that calculates parcents. ",
+            "short_description": "A menu bar application that calculates percents. ",
             "categories": [
                 "utilities"
             ],
@@ -6597,7 +6714,7 @@
             "categories": [
                 "utilities"
             ],
-            "repo_url": "https://github.com/blockstack/blockstack-browser",
+            "repo_url": "https://github.com/stacks-network/blockstack-browser",
             "title": "The Blockstack Browser",
             "icon_url": "",
             "screenshots": [],
@@ -6632,6 +6749,61 @@
             "official_site": "",
             "languages": [
                 "objective_c"
+            ]
+        },
+        {
+            "short_description": "Flash OS images to SD cards & USB drives, safely and easily. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/balena-io/etcher",
+            "title": "Balena Etcher",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.balena.io/etcher",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
+            "short_description": "Nmap - the Network Mapper. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nmap/nmap",
+            "title": "Nmap",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://nmap.org",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
+            "short_description": "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/wireshark/wireshark",
+            "title": "Wireshark",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.wireshark.org",
+            "languages": [
+                "cpp"
+            ]
+         }, {
+            "short_description": "Node Version Manager. ",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/nvm-sh/nvm",
+            "title": "NVM",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "",
+            "languages": [
+                "shell"
             ]
         },
         {
@@ -6946,7 +7118,7 @@
             ],
             "repo_url": "https://github.com/iina/iina",
             "title": "IINA",
-            "icon_url": "https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/256-1.png",
+            "icon_url": "",
             "screenshots": [],
             "official_site": "https://iina.io",
             "languages": [
@@ -7078,7 +7250,7 @@
             ]
         },
         {
-            "short_description": "ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/community/channels). ",
+            "short_description": "ArtStation set as wallpapers from artwork.rss",
             "categories": [
                 "wallpaper"
             ],
@@ -7465,7 +7637,7 @@
             "categories": [
                 "touch-bar"
             ],
-            "repo_url": "https://github.com/lessmess-dev/touch-emoji",
+            "repo_url": "https://github.com/ilyalesik/touch-emoji",
             "title": "Touch Emoji",
             "icon_url": "",
             "screenshots": [
@@ -7555,7 +7727,7 @@
             "categories": [
                 "touch-bar"
             ],
-            "repo_url": "https://github.com/pigigaldi/Pock",
+            "repo_url": "https://github.com/pock/pock",
             "title": "Pock",
             "icon_url": "https://camo.githubusercontent.com/bfb3abeb24e585e9121ce6440167ac2c9f06aeca/68747470733a2f2f706f636b2e6465762f6173736574732f696d672f6272616e642f7765622d69636f6e2d626c61636b2e706e67",
             "screenshots": [
@@ -7602,7 +7774,7 @@
         {
             "repo_url": "https://github.com/amiantos/lifesaver",
             "icon_url": "",
-            "official_site": "https://amiantos.net/lifesaver/",
+            "official_site": "",
             "title": "Life Saver",
             "screenshots": [
                 "https://raw.githubusercontent.com/amiantos/lifesaver/master/Design/screensaver/lifesaver-screenshots-1.1.png",
@@ -7657,9 +7829,7 @@
             "repo_url": "https://github.com/rxhanson/Rectangle",
             "title": "Rectangle",
             "icon_url": "",
-            "screenshots": [
-                "https://rectangleapp.com/images/ScreenShot.png"
-            ],
+            "screenshots": [],
             "official_site": "https://rectangleapp.com",
             "languages": [
                 "swift"
@@ -7737,7 +7907,7 @@
             ],
             "repo_url": "https://github.com/yonilevy/automute",
             "title": "AutoMute",
-            "icon_url": "https://raw.githubusercontent.com/yonilevy/automute/master/automute/Assets.xcassets/AppIcon.appiconset/icon256.png",
+            "icon_url": "",
             "screenshots": [
                 "https://user-images.githubusercontent.com/31284/49688097-ac653900-fb15-11e8-9c48-3db96df5dcbf.png",
                 "https://user-images.githubusercontent.com/31284/49688098-ae2efc80-fb15-11e8-8034-14c67fb69d90.png"
@@ -7840,7 +8010,7 @@
             "title": "PowerShell",
             "icon_url": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_black_64.png",
             "screenshots": [],
-            "official_site": "https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7.1&viewFallbackFrom=powershell-6",
+            "official_site": "",
             "languages": [
                 "c_sharp"
             ]
@@ -7857,6 +8027,21 @@
             "official_site": "https://cryptomator.org/",
             "languages": [
                 "java"
+            ]
+        },
+        {
+            "short_description": "Disk encryption with strong security based on TrueCrypt. ",
+            "categories": [
+                "security"
+            ],
+            "repo_url": "https://github.com/veracrypt/VeraCrypt",
+            "title": "VeraCrypt",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.veracrypt.fr",
+            "languages": [
+                "c",
+                "cpp"
             ]
         },
         {
@@ -7886,7 +8071,7 @@
             ],
             "repo_url": "https://github.com/spotter-application/spotter",
             "title": "Spotter",
-            "icon_url": "https://github.com/spotter-application/spotter/blob/master/preview/icon.png",
+            "icon_url": "https://github.com/spotter-application/spotter/blob/main/preview/icon.png",
             "screenshots": [],
             "official_site": "",
             "languages": [
@@ -8020,11 +8205,11 @@
                 "extensions",
                 "utilities"
             ],
-            "repo_url": "https://github.com/DaFuqtor/MiddleClick-Catalina",
+            "repo_url": "https://github.com/artginzburg/MiddleClick-Ventura",
             "title": "Middleclick",
             "icon_url": "https://raw.githubusercontent.com/DaFuqtor/MiddleClick-Catalina/master/MiddleClick/Images.xcassets/AppIcon.appiconset/mouse128x128.png",
             "screenshots": [
-                "https://github.com/DaFuqtor/MiddleClick-Catalina/blob/master/demo.png"
+                "https://github.com/artginzburg/MiddleClick-Ventura/blob/master/demo.png"
             ],
             "official_site": "",
             "languages": [
@@ -8032,8 +8217,8 @@
             ]
         },
         {
-            "repo_url": "https://github.com/jet8a/pomodoro-cycle-app",
-            "official_site": "https://github.com/jet8a/pomodoro-cycle-app/releases",
+            "repo_url": "https://github.com/ziulev/pomodoro-cycle-app",
+            "official_site": "https://github.com/ziulev/pomodoro-cycle-app/releases",
             "title": "Pomodoro Cycle",
             "icon_url": "https://raw.githubusercontent.com/jet8a/pomodoro-cycle-app/master/src/favicon.png",
             "screenshots": [
@@ -8233,7 +8418,7 @@
             "title": "Gitify",
             "icon_url": "https://raw.githubusercontent.com/manosim/gitify/master/assets/images/app-icon.ico",
             "screenshots": [
-                "https://github.com/manosim/gitify/blob/master/assets/images/press.png"
+                "https://github.com/manosim/gitify/blob/main/assets/images/press.png"
             ],
             "official_site": "https://www.gitify.io/",
             "languages": [
@@ -8263,10 +8448,8 @@
             ],
             "repo_url": "https://github.com/simple-login/mac-app",
             "title": "SimpleLogin",
-            "icon_url": "https://simplelogin.io/logo.svg",
-            "screenshots": [
-                "https://static.simplelogin.io/open-source-mac-apps.png"
-            ],
+            "icon_url": "",
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -8281,7 +8464,7 @@
             ],
             "repo_url": "https://github.com/amirdew/CollectionViewPagingLayout",
             "title": "Layout Designer for UICollectionView",
-            "icon_url": "https://github.com/amirdew/CollectionViewPagingLayout/blob/master/Samples/PagingLayoutSamples/Assets.xcassets/AppIcon.appiconset/icon_40x40@3x.png?raw=true",
+            "icon_url": "",
             "screenshots": [
                 "https://amir.app/git/layout_designer_preview.gif"
             ],
@@ -8298,10 +8481,7 @@
             "repo_url": "https://github.com/maoyama/GitBlamePR",
             "title": "GitBlamePR",
             "icon_url": "https://github.com/maoyama/GitBlamePR/blob/master/GitBlamePR/Assets.xcassets/AppIcon.appiconset/gitblamepr1024.png",
-            "screenshots": [
-                "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c1.gif",
-                "https://github.com/maoyama/GitBlamePR/blob/master/Captures/c2.gif"
-            ],
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -8344,12 +8524,12 @@
             ]
         },
         {
-            "repo_url": "https://github.com/bhj/karaoke-forever",
-            "official_site": "https://www.karaoke-forever.com",
+            "repo_url": "https://github.com/bhj/KaraokeEternal",
+            "official_site": "https://www.karaoke-eternal.com/",
             "title": "Karaoke Forever",
-            "icon_url": "https://github.com/bhj/karaoke-forever/blob/master/assets/app.png?raw=true",
+            "icon_url": "https://github.com/bhj/KaraokeEternal/blob/master/assets/app.png?raw=true",
             "screenshots": [
-                "https://github.com/bhj/karaoke-forever/blob/master/docs/assets/images/README.jpg?raw=true"
+                "https://github.com/bhj/KaraokeEternal/blob/master/docs/assets/images/README.jpg?raw=true"
             ],
             "short_description": "Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.",
             "languages": [
@@ -8446,12 +8626,10 @@
         },
         {
             "repo_url": "https://github.com/RocketChat/Rocket.Chat.Electron",
-            "official_site": "https://rocket.chat/",
+            "official_site": "https://www.rocket.chat/",
             "title": "RocketChat",
-            "icon_url": "https://rocket.chat/wp-content/uploads/2020/09/cropped-Logo-Simbolo-Vermelho-PNG-e1599852240317-192x192.png",
-            "screenshots": [
-                "https://rocket.chat/wp-content/uploads/2020/07/devices-screens-1536x866.png"
-            ],
+            "icon_url": "",
+            "screenshots": [],
             "short_description": "Free open source chat system for teams. An alternative to Slack that can also be self hosted.",
             "languages": [
                 "javascript"
@@ -8527,11 +8705,11 @@
         },
         {
             "repo_url": "https://github.com/DevUtilsApp/DevUtils-app",
-            "official_site": "https://devutils.app",
+            "official_site": "https://devutils.com",
             "title": "DevUtils.app",
-            "icon_url": "https://devutils.app/favicon.png",
+            "icon_url": "https://devutils.com/favicon.png",
             "screenshots": [
-                "https://devutils.app/screenshot-dark.png"
+                "https://devutils.com/screenshot-dark.png"
             ],
             "short_description": "Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator...",
             "languages": [
@@ -8659,6 +8837,23 @@
             "languages": [
                 "typescript",
                 "swift"
+            ]
+        },
+        {
+            "repo_url": "https://github.com/sqlectron/sqlectron-gui",
+            "official_site": "https://sqlectron.github.io/",
+            "title": "sqlectron",
+            "icon_url": "https://sqlectron.github.io/logos/logo-square-180px.png",
+            "screenshots": [
+                "https://sqlectron.github.io/demos/sqlectron-demo-gui-v1.31.0.gif"
+            ],
+            "short_description": "A simple and lightweight SQL client desktop/terminal with cross database and platform support.",
+            "categories": [
+                "database",
+                "productivity"
+            ],
+            "languages": [
+                "typescript"
             ]
         },
         {
@@ -8793,7 +8988,7 @@
             ],
             "repo_url": "https://github.com/oliverschwendener/ueli",
             "title": "Ueli",
-            "icon_url": "https://raw.githubusercontent.com/oliverschwendener/ueli/dev/img/icons/mac/ueliTemplate.png",
+            "icon_url": "",
             "screenshots": [
                 "https://github.com/oliverschwendener/ueli/blob/dev/assets/feature-simple-folder-search.png?raw=true"
             ],
@@ -8833,7 +9028,7 @@
             "screenshots": [
                 "https://user-images.githubusercontent.com/239513/126497099-1b89a8ef-68f2-4aae-9f05-f124748685d2.png"
             ],
-            "official_site": "https://paretosecurity.app/",
+            "official_site": "https://paretosecurity.com/",
             "languages": [
                 "swift"
             ]
@@ -8847,12 +9042,8 @@
             ],
             "repo_url": "https://github.com/smmr-software/privacy-redirect-safari",
             "title": "Privacy Redirect for Safari",
-            "icon_url": "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/Privacy%20Redirect%20for%20Safari%20Extension/assets/images/full/icon1024.png",
-            "screenshots": [
-                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/1.jpg",
-                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/2.jpg",
-                "https://raw.githubusercontent.com/smmr-software/privacy-redirect-safari/main/assets/final/3.jpg"
-            ],
+            "icon_url": "",
+            "screenshots": [],
             "official_site": "",
             "languages": [
                 "swift"
@@ -8920,9 +9111,7 @@
             "repo_url": "https://github.com/CodingFriends/Tincta",
             "title": "Tincta",
             "icon_url": "https://raw.githubusercontent.com/CodingFriends/Tincta/master/Source/app_icon.iconset/icon_512x512.png",
-            "screenshots": [
-                "https://ik.imagekit.io/codingFriends/img/tr:w-2880,q-90,pr-true/tincta/Screenshot.png"
-            ],
+            "screenshots": [],
             "official_site": "https://codingfriends.github.io/Tincta/",
             "languages": [
                 "objective_c"
@@ -9078,7 +9267,7 @@
             "categories": [
                 "graphics"
             ],
-            "repo_url": "https://git.blender.org/blender.git",
+            "repo_url": "https://projects.blender.org/",
             "title": "Blender",
             "icon_url": "https://download.blender.org/branding/blender_logo_socket.png",
             "screenshots": [
@@ -9108,7 +9297,7 @@
             "screenshots": [
                 "https://krita.org/wp-content/uploads/2019/08/krita-ui-40.png"
             ],
-            "official_site": "https://krita.org",
+            "official_site": "https://krita.org/en/",
             "languages": [
                 "cpp",
                 "python",
@@ -9129,7 +9318,7 @@
                 "https://www.thunderbird.net/media/img/l10n/en-US/thunderbird/calendar/screenshot-mac.png",
                 "https://www.thunderbird.net/media/img/thunderbird/features/addon-manager.png"
             ],
-            "official_site": "https://www.thunderbird.net/",
+            "official_site": "https://www.thunderbird.net/en-US/",
             "languages": [
                 "cpp",
                 "javascript",
@@ -9153,7 +9342,7 @@
             "languages": [
                 "javascript"
             ]
-        }, 
+        },
         {
             "short_description": "FreeCAD is an open-source 3D parametric modeler",
             "categories": [
@@ -9163,9 +9352,9 @@
             "title": "FreeCAD",
             "icon_url": "",
             "screenshots": [
-               "https://www.freecadweb.org/images/feature-03.jpg"
+               "https://www.freecad.org/images/feature-03.jpg"
             ],
-            "official_site": "https://www.freecadweb.org/",
+            "official_site": "https://www.freecad.org/",
             "languages": [
                 "c++",
                 "python"
@@ -9178,7 +9367,7 @@
             ],
             "repo_url": "https://gitlab.com/inkscape/inkscape",
             "title": "Inkscape",
-            "icon_url": "https://inkscape.org/",
+            "icon_url": "",
             "screenshots": [
                "https://media.inkscape.org/media/resources/file/inkscape-0.48-moonlight-views.png"
             ],
@@ -9234,13 +9423,27 @@
             ]
         },
         {
+            "short_description": "OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/openrocket/openrocket",
+            "title": "OpenRocket",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://openrocket.info/",
+            "languages": [
+                "java"
+            ]
+        },
+        {
             "short_description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.",
             "categories": [
                 "sharing-files"
             ],
             "repo_url": "https://github.com/iterate-ch/cyberduck",
             "title": "Cyberduck",
-            "icon_url": "https://cdn.cyberduck.io/img/cyberduck-icon-rect-512.png",
+            "icon_url": "",
             "screenshots": [
                 "https://cdn.cyberduck.io/img/mac/browser-bookmarks.png",
                 "https://cdn.cyberduck.io/img/mac/browser.png"
@@ -9248,6 +9451,264 @@
             "official_site": "https://cyberduck.io",
             "languages": [
                 "java"
+            ]
+        },
+        {
+            "short_description": "Simple SQL Client for lightweight data analysis.",
+            "categories": [
+                "database"
+            ],
+            "repo_url": "https://github.com/bdash-app/bdash",
+            "title": "Bdash",
+            "icon_url": "https://github.com/bdash-app/bdash/blob/master/build/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/bdash-app/bdash/1.2.2/assets/capture1.png",
+                "https://raw.githubusercontent.com/bdash-app/bdash/1.2.2/assets/capture2.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.",
+            "categories": [
+                "ide",
+                "development"
+            ],
+            "repo_url": "https://github.com/brackets-cont/brackets",
+            "title": "Brackets",
+            "icon_url": "https://brackets.io/img/brackets.svg",
+            "screenshots": [
+               "https://brackets.io/img/hero.png"
+            ],
+            "official_site": "https://brackets.io/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "Cross platform configuration tool for the Betaflight firmware.",
+            "categories": [
+                "utilities",
+                "other"
+            ],
+            "repo_url": "https://github.com/betaflight/betaflight-configurator",
+            "title": "Betaflight Configurator",
+            "icon_url": "https://pbs.twimg.com/profile_images/1061367585436925957/HoDOKWlp_400x400.jpg",
+            "screenshots": [
+               "https://lh3.googleusercontent.com/di77U8MJEDNqdZ3UQugKJy6TEDtHsPegDH8fOaCM0m8E7zImA6bW1epvftG5LdpUsxE-eAkJtKAfDqIvOf-RXr8VUhg=w640-h400-e365-rj-sc0x00ffffff"
+            ],
+            "official_site": "https://betaflight.com/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "Powerful yet simple to use screenshot software.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/flameshot-org/flameshot",
+            "title": "Flameshot",
+            "icon_url": "https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/flameshot.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/preview/animatedUsage.gif"
+            ],
+            "official_site": "https://flameshot.org",
+            "languages": [
+                "cpp"
+            ]
+        },
+        {
+            "short_description": "A graphical Git client designed to help you understand and manage your source code history.",
+            "categories": [
+                "development",
+                "git"
+            ],
+            "repo_url": "https://github.com/gitahead/gitahead/",
+            "title": "GitAhead",
+            "icon_url": "",
+            "screenshots": [
+            ],
+            "official_site": "https://gitahead.github.io/gitahead.com/",
+            "languages": [
+                "cpp",
+                "c"
+            ]
+        },
+        {
+            "short_description": "Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://github.com/NixOS/nix",
+            "title": "nix-package-manager",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://nixos.org/explore.html",
+            "languages": [
+                "c++",
+                "shell",
+                "nix"
+            ]
+        },
+        {
+            "short_description": "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.",
+            "categories": [
+                "system"
+            ],
+            "repo_url": "https://gitlab.com/wireshark/wireshark/-/tree/master",
+            "title": "Wireshark",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://www.wireshark.org/",
+            "languages": [
+                "c",
+                "c++"
+            ]
+         }, {
+            "short_description": "zoxide is a smarter cd command for your terminal.",
+            "categories": [
+                "finder",
+                "terminal",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/ajeetdsouza/zoxide",
+            "title": "zoxide",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/ajeetdsouza/zoxide/c392a8bb75af098b3906ed66595e79f05af92d1a/contrib/tutorial.webp"
+            ],
+            "official_site": "",
+            "languages": [
+                "rust"
+            ]
+        },
+        {
+            "short_description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.",
+            "categories": [
+                "games"
+            ],
+            "repo_url": "https://github.com/widelands/widelands",
+            "title": "Widelands",
+            "icon_url": "https://www.widelands.org/static/img/logo.png",
+            "screenshots": [
+               "https://www.widelands.org/static/img/welcome.jpg"
+            ],
+            "official_site": "https://www.widelands.org",
+            "languages": [
+                "c++",
+                "python",
+                "lua",
+                "javascript"
+            ]
+        },
+        {
+            "short_description": "An editor for macOS",
+            "categories": [
+                "editors"
+            ],
+            "repo_url": "https://github.com/ChimeHQ/Chime",
+            "title": "Chime",
+            "icon_url": "",
+            "screenshots": [
+                "https://www.chimehq.com/assets/images/laptop-frame-large.png"
+            ],
+            "official_site": "https://www.chimehq.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+          "short_description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
+          "categories": [
+            "database"
+          ],
+          "repo_url": "https://github.com/dbgate/dbgate",
+          "title": "DbGate",
+          "icon_url": "https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png",
+          "screenshots": [
+            "https://dbgate.org/assets/screenshots/datagrid.png",
+            "https://dbgate.org/assets/screenshots/query.png",
+            "https://dbgate.org/assets/screenshots/diagram.png",
+            "https://dbgate.org/assets/screenshots/redis.png",
+            "https://dbgate.org/assets/screenshots/export.png",
+            "https://dbgate.org/assets/screenshots/darkmode.png",
+            "https://dbgate.org/assets/screenshots/querydesigner.png",
+            "https://dbgate.org/assets/screenshots/mongosave.png",
+            "https://dbgate.org/assets/screenshots/dbcompare.png"
+          ],
+          "official_site": "https://dbgate.org",
+          "languages": [
+            "javascript",
+            "typescript"
+          ]
+        },
+        {
+            "short_description": "A Hex Editor for Reverse Engineers.",
+            "categories": [
+                "Editors",
+                "IDE"
+            ],
+            "repo_url": "https://github.com/WerWolv/ImHex/",
+            "title": "ImHex",
+            "icon_url": "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/dist/windows/icon.ico",
+            "screenshots": [
+                "https://raw.githubusercontent.com/WerWolv/ImHex/master/resources/projects/splash_screen.svg"
+            ],
+            "official_site": "https://imhex.werwolv.net/",
+            "languages": [
+                "c++"
+             ]
+        },
+        {
+            "short_description": "MacOS menu bar app for launching iOS  and Android 🤖 emulators.",
+            "categories": [
+                "menubar"
+            ],
+            "repo_url": "https://github.com/okwasniewski/MiniSim",
+            "title": "MiniSim",
+            "icon_url": "https://github.com/okwasniewski/MiniSim/blob/main/MiniSim/Assets.xcassets/AppIcon.appiconset/256.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/52801365/223483262-aa3bad72-2948-4893-87a0-578e5d3d8e89.png"
+            ],
+            "official_site": "https://www.minisim.app/",
+            "languages": [
+                "swift"
+
+            ]
+        },
+        {
+            "short_description": "Instant messaging application that can connect to XMPP (Jabber), IRC and more.",
+            "categories": [
+                "chat"
+            ],
+            "repo_url": "https://github.com/adium/adium",
+            "title": "Adium",
+            "icon_url": "https://camo.githubusercontent.com/a71922d7e707859df12b40be9c5b7f84b2c3562b55b1bc145986b119abb8d136/68747470733a2f2f616469756d2e696d2f696d616765732f6c6f676f2e706e67",
+            "screenshots": [
+                "https://adiumx.com/blog/uploads/2009/03/twitter-full.png"
+            ],
+            "official_site": "https://adium.im/",
+            "languages": [
+                "c"
+            ]
+		    },
+		    {
+            "short_description": "gPodder is a simple, open source podcast client.",
+            "categories": [
+                "podcast"
+            ],
+            "repo_url": "https://github.com/gpodder/gpodder",
+            "title": "gPodder",
+            "icon_url": "https://raw.githubusercontent.com/gpodder/gpodder/master/share/icons/hicolor/64x64/apps/gpodder.png",
+            "screenshots": [
+				        "https://gpodder.github.io/assets/screenshot-2022-03-24-crop.png"
+            ],
+            "official_site": "https://gpodder.github.io/",
+            "languages": [
+                "python"
             ]
         }
     ]
